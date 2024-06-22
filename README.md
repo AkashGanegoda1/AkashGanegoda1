@@ -10,7 +10,7 @@
  <p align="center"> <a href="https://github.com/AkashGanegoda1/Inventory-System-V2">Inventory System V2</a></p>
  <p align="center"> <a href="https://github.com/AkashGanegoda1/PO-System-for-AK2-Industries">PO System for AK2 Industries</a></p>
  <p align="center"> <a href="https://github.com/AkashGanegoda1/Attendance-System-For-a-Buddhist-Organization">Attendance System For a Buddhist Organization</a></p>
- <p align="center"> <a href="https://github.com/AkashGanegoda1/Attendance-System-For-a-Buddhist-Organization">Resturant Management System</a></p>
+ <p align="center"> <a href="https://github.com/AkashGanegoda1/Resturant-Management-System">Resturant Management System</a></p>
 <br>
 <br>
 
