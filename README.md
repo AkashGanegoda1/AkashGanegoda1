@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akash ganegoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash ganegoda" height="30" width="40" /></a>
-<a href="https://akash--ganegoda.web.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/username/repository/master/" alt="akash ganegoda" height="30" width="40" /></a>
+<a href="https://akash--ganegoda.web.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/akashganegoda1/akashganegoda1/master/_Black and White Simple Minimalisit Initial A Letter Industries Logo (1).png" alt="akash ganegoda" height="30" width="40" /></a>
 </p>
 <br>
 
