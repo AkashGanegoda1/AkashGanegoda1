@@ -7,6 +7,7 @@
 
 <h4 align="center" style="font-weight: bold; text-decoration: underline;"> 🤝 Completed Projects</h4>
 <br>
+ <p align="center"> <a href="https://github.com/AkashGanegoda1/GPA-Calculator">GPA Calculator</a></p>
  <p align="center"> <a href="https://github.com/AkashGanegoda1/Inventory-System-V2">Inventory System V2</a></p>
  <p align="center"> <a href="https://github.com/AkashGanegoda1/PO-System-for-AK2-Industries">PO System for AK2 Industries</a></p>
  <p align="center"> <a href="https://github.com/AkashGanegoda1/Attendance-System-For-a-Buddhist-Organization">Attendance System For a Buddhist Organization</a></p>
